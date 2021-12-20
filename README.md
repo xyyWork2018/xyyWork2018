@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ⛄ 有时间会写写博客  
 💰 想挣更多的钱，争取实现购物自由
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xyyWork2018&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=xyyWork2018&show_icons=true">
 
 

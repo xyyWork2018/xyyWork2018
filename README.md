@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💜💙💚💗
+💜💙💚💗   
 
-🐤 菜鸟程序员，荒废好久，准备重拾信息，希望不算太晚
-🐸 平时喜欢在掘金看文章，努力跟上前端技术框架更新的步伐
-⛄ 有时间会写写博客
-💰 想挣更多的钱，争取实现购物自由
+🐤 菜鸟程序员，荒废好久，准备重拾信息，希望不算太晚  
+🐸 平时喜欢在掘金看文章，努力跟上前端技术框架更新的步伐  
+⛄ 有时间会写写博客  
+💰 想挣更多的钱，争取实现购物自由  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xyyWork2018&show_icons=true">
 

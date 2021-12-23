@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 🐤 菜鸟程序员，荒废好久，准备重拾技术，希望不算太晚  
 🐸 要努力跟上前端技术框架更新的步伐  
 ⛄ 有时间会写写博客  
-💰 想挣更多的钱，争取实现购物自由
-
-<img src="https://github-readme-stats.vercel.app/api?username=xyyWork2018&show_icons=true">
+💰 想挣更多的钱，争取实现购物自由<img src="https://github-readme-stats.vercel.app/api?username=xyyWork2018&show_icons=true">
 
 
